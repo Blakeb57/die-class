@@ -31,3 +31,17 @@ hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+# THESE ARE ALL ANSWERS FOR PERSON TWO ON BRANCHING SECTION
+
+4. Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         8/26/2020   8:08 PM            302 .gitignore
+-a----         8/27/2020   1:47 PM            885 die.cc
+-a----         8/27/2020   1:43 PM           1331 die.h
+-a----         8/27/2020   1:37 PM           1736 first-answers.md
+-a----         8/27/2020  12:43 PM             75 NewFile
+-a----         8/27/2020  12:43 PM            154 README.md
+-a----         8/27/2020   1:43 PM            767 second-answers.md
+
+
