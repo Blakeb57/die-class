@@ -1,2 +1,2 @@
-# The second git Lab
-## Second team member: Blake Boehringer
+# Git Lab #2
+## First team member: Blake Boehringer
