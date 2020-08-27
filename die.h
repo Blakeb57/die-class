@@ -55,4 +55,8 @@ private:
   int numSides; ///number of faces of the die
 };
 
+<<<<<<< HEAD
   #endif
+=======
+  #endif
+>>>>>>> header
