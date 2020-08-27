@@ -31,3 +31,12 @@ hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+4. -a----         8/26/2020   8:08 PM            302 .gitignore    //person 2
+-a----         8/27/2020   1:52 PM           1382 die.h
+-a----         8/27/2020   1:52 PM           1736 first-answers.md
+-a----         8/27/2020  12:43 PM             75 NewFile
+-a----         8/27/2020  12:43 PM            154 README.md
+-a----         8/27/2020   1:52 PM           1282 second-answers.md
+
+5. No, die.cc file is not in the master branch     //person 2
