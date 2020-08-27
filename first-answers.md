@@ -1,4 +1,4 @@
-# These are all answers to the questions that delt with the collaboration part of the lab
+# These are all answers to the questions that delt with PART 1 OF THE LAB (BEFORE BRANCHING SECTION) and PERSON 2 IN BRNAHCING SECTION
 
 1. ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/Blakeb57/die-class.git'
